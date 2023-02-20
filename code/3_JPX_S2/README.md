@@ -1,6 +1,6 @@
 ## 代码说明
 
-**代码文件**: [JPX_2.ipynb](./code/3_JPX_S2/JPX_2.ipynb)
+**代码文件**: [JPX_2.ipynb](./JPX_2.ipynb)
 
 **数据文件**: [data.tgz](https://github.com/nutquant/data_jpx_kaggle)  [数据文件过大，运行前请点击链接下载文件解压其中的csv文件和代码文件放在同一目录中]
 
